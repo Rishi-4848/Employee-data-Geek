@@ -1,0 +1,14 @@
+.header-container{
+  width: 90vw;
+  margin: auto auto;
+  margin-top: 20px;
+  border: none;
+  border-radius: 30px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: rgba(49, 164, 224, 0.8);
+  font-size: 26px;
+}
